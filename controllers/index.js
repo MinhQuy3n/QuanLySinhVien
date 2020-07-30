@@ -61,4 +61,5 @@ var AddSinhVien = function(){
         console.log(error.response.data);
     })
 }
+var ADD = function (){}
 renderSinhVien();
